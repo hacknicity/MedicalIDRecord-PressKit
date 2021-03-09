@@ -58,6 +58,7 @@ The app does not collect any usage metrics.
 ## iPhone Screenshots
 
 #### View Medical ID:
+
 <table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_medicalID1.png" width="286" title="iPhone12Pro_medicalID1" /></td>
@@ -68,7 +69,9 @@ The app does not collect any usage metrics.
 </table>
 <br/>
 
+
 #### Edit Medical ID:
+
 <table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_editMedicalID1.png" width="286" title="iPhone12Pro_editMedicalID1" /></td>
@@ -78,7 +81,9 @@ The app does not collect any usage metrics.
 </table>
 <br/>
 
+
 #### Share, Back Up, and Restore:
+
 <table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_shareMedicalID.png" width="286" title="iPhone12Pro_shareMedicalID" /></td>
@@ -88,7 +93,9 @@ The app does not collect any usage metrics.
 </table>
 <br/>
 
+
 #### iOS 14 Widgets (new in v6.0):
+
 <table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_addWidgetPersonalDetails.png" width="286" title="iPhone12Pro_addWidgetPersonalDetails" /></td>
@@ -96,6 +103,9 @@ The app does not collect any usage metrics.
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_widgetsMixture.png" width="286" title="iPhone12Pro_widgetsMixture" /></td>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_widgetsHomeScreen.png" width="286" title="iPhone12Pro_widgetsHomeScreen" /></td>
 	</tr>
+</table>
+
+<table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_widgetsPersonalDetails.png" width="286" title="iPhone12Pro_widgetsPersonalDetails" /></td>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_widgetsMedicalInformation.png" width="286" title="iPhone12Pro_widgetsMedicalInformation" /></td>
@@ -104,7 +114,9 @@ The app does not collect any usage metrics.
 </table>
 <br/>
 
+
 #### Home Screen Quick Actions and Task Switcher Privacy:
+
 <table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_homeScreenQuickActions.png" width="286" title="iPhone12Pro_homeScreenQuickActions" /></td>
@@ -113,7 +125,9 @@ The app does not collect any usage metrics.
 </table>
 <br/>
 
+
 #### Pre-iOS 14 Widget:
+
 <table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_oldWidget1.png" width="286" title="iPhone12Pro_oldWidget1" /></td>
@@ -127,11 +141,15 @@ The app does not collect any usage metrics.
 ## iPad Screenshots
 
 #### View Medical ID:
+
 <table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPad/iPadPro11_medicalID1.png" width="400" title="iPadPro11_medicalID1" /></td>
 		<td><img src="screenshots/framed/iPad/iPadPro11_medicalID2.png" width="400" title="iPadPro11_medicalID2" /></td>
 	</tr>
+</table>
+
+<table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPad/iPadPro11_medication.png" width="400" title="iPadPro11_medication" /></td>
 		<td><img src="screenshots/framed/iPad/iPadPro11_medicationPhoto.png" width="400" title="iPadPro11_medicationPhoto" /></td>
@@ -149,6 +167,7 @@ The app does not collect any usage metrics.
 </table>
 <br/>
 
+
 #### Share, Back Up, and Restore:
 <table style="border-spacing:12">
 	<tr>
@@ -159,21 +178,30 @@ The app does not collect any usage metrics.
 </table>
 <br/>
 
+
 #### iOS 14 Widgets (new in v6.0):
+
 <table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPad/iPadPro11_addWidgetPersonalDetails.png" width="550" title="iPadPro11_addWidgetPersonalDetails" /></td>
 		<td><img src="screenshots/framed/iPad/iPadPro11_addWidgetEmergencyContacts.png" width="550" title="iPadPro11_addWidgetEmergencyContacts" /></td>
 	</tr>
+</table>
+
+<table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPad/iPadPro11_widgetsHomeScreen.png" width="550" title="iPadPro11_widgetsHomeScreen" /></td>
 	</tr>
 </table>
+
 <table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPad/iPadPro11_widgetsMixture.png" width="400" title="iPadPro11_widgetsMixture" /></td>
 		<td><img src="screenshots/framed/iPad/iPadPro11_widgetsPersonalDetails.png" width="400" title="iPadPro11_widgetsPersonalDetails" /></td>
 	</tr>
+</table>
+
+<table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPad/iPadPro11_widgetsMedicalInformation.png" width="400" title="iPadPro11_widgetsMedicalInformation" /></td>
 		<td><img src="screenshots/framed/iPad/iPadPro11_widgetsEmergencyContacts.png" width="400" title="iPadPro11_widgetsEmergencyContacts" /></td>
@@ -181,7 +209,9 @@ The app does not collect any usage metrics.
 </table>
 <br/>
 
+
 #### Pre-iOS 14 Widget:
+
 <table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPad/iPadPro11_oldWidget1.png" width="400" title="iPadPro11_oldWidget1" /></td>
@@ -194,6 +224,7 @@ The app does not collect any usage metrics.
 ## Apple Watch Screenshots
 
 #### View Medical ID:
+
 <table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/Watch/WatchSeries6_personalDetails.png" width="227" title="WatchSeries6_personalDetails" /></td>
@@ -201,6 +232,9 @@ The app does not collect any usage metrics.
 		<td><img src="screenshots/framed/Watch/WatchSeries6_hospitalVisits.png" width="227" title="WatchSeries6_hospitalVisits" /></td>
 		<td><img src="screenshots/framed/Watch/WatchSeries6_medications.png" width="227" title="WatchSeries6_medications" /></td>
 	</tr>
+</table>
+
+<table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/Watch/WatchSeries6_emergencyContacts.png" width="227" title="WatchSeries6_emergencyContacts" /></td>
 		<td><img src="screenshots/framed/Watch/WatchSeries6_callEmergencyContact.png" width="227" title="WatchSeries6_callEmergencyContact" /></td>
