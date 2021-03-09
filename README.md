@@ -92,18 +92,22 @@ The app does not collect any usage metrics.
 <br/>
 
 
-#### Share, Back Up, and Restore:
+#### Back Up, and Restore Medical ID:
+
+<table style="border-spacing:12">
+	<tr>
+		<td><img src="screenshots/framed/iPhone/iPhone12Pro_backUpMedicalID.png" width="286" title="iPhone12Pro_backUpMedicalID" /></td>
+		<td><img src="screenshots/framed/iPhone/iPhone12Pro_restoreMedicalID.png" width="286" title="iPhone12Pro_restoreMedicalID" /></td>
+	</tr>
+</table>
+<br/>
+
+
+#### Share Medical ID:
 
 <table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_shareMedicalID.png" width="286" title="iPhone12Pro_shareMedicalID" /></td>
-		<td><img src="screenshots/framed/iPhone/iPhone12Pro_backUpMedicalID.png" width="286" title="iPhone12Pro_backUpMedicalID" /></td>
-	</tr>
-</table>
-
-<table style="border-spacing:12">
-	<tr>
-		<td><img src="screenshots/framed/iPhone/iPhone12Pro_restoreMedicalID.png" width="286" title="iPhone12Pro_restoreMedicalID" /></td>
 	</tr>
 </table>
 <br/>
@@ -198,22 +202,22 @@ The app does not collect any usage metrics.
 <br/>
 
 
-#### Share, Back Up, and Restore:
-<table style="border-spacing:12">
-	<tr>
-		<td><img src="screenshots/framed/iPad/iPadPro11_shareMedicalID.png" width="400" title="iPadPro11_shareMedicalID" /></td>
-	</tr>
-</table>
+#### Back Up, and Restore Medical ID:
 
 <table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPad/iPadPro11_backUpMedicalID.png" width="400" title="iPadPro11_backUpMedicalID" /></td>
+		<td><img src="screenshots/framed/iPad/iPadPro11_restoreMedicalID.png" width="400" title="iPadPro11_restoreMedicalID" /></td>
 	</tr>
 </table>
+<br/>
+
+
+#### Share Medical ID:
 
 <table style="border-spacing:12">
 	<tr>
-		<td><img src="screenshots/framed/iPad/iPadPro11_restoreMedicalID.png" width="400" title="iPadPro11_restoreMedicalID" /></td>
+		<td><img src="screenshots/framed/iPad/iPadPro11_shareMedicalID.png" width="400" title="iPadPro11_shareMedicalID" /></td>
 	</tr>
 </table>
 <br/>
