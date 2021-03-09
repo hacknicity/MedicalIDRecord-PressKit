@@ -228,6 +228,11 @@ The app does not collect any usage metrics.
 <table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPad/iPadPro11_addWidgetPersonalDetails.png" width="550" title="iPadPro11_addWidgetPersonalDetails" /></td>
+	</tr>
+</table>
+
+<table style="border-spacing:12">
+	<tr>
 		<td><img src="screenshots/framed/iPad/iPadPro11_addWidgetEmergencyContacts.png" width="550" title="iPadPro11_addWidgetEmergencyContacts" /></td>
 	</tr>
 </table>
