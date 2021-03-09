@@ -63,6 +63,11 @@ The app does not collect any usage metrics.
 	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_medicalID1.png" width="286" title="iPhone12Pro_medicalID1" /></td>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_medicalID2.png" width="286" title="iPhone12Pro_medicalID2" /></td>
+	</tr>
+</table>
+
+<table style="border-spacing:12">
+	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_medication.png" width="286" title="iPhone12Pro_medication" /></td>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_medicationPhoto.png" width="286" title="iPhone12Pro_medicationPhoto" /></td>
 	</tr>
@@ -76,6 +81,11 @@ The app does not collect any usage metrics.
 	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_editMedicalID1.png" width="286" title="iPhone12Pro_editMedicalID1" /></td>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_editMedicalID2.png" width="286" title="iPhone12Pro_editMedicalID2" /></td>
+	</tr>
+</table>
+
+<table style="border-spacing:12">
+	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_editMedication.png" width="286" title="iPhone12Pro_editMedication" /></td>
 	</tr>
 </table>
@@ -88,6 +98,11 @@ The app does not collect any usage metrics.
 	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_shareMedicalID.png" width="286" title="iPhone12Pro_shareMedicalID" /></td>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_backUpMedicalID.png" width="286" title="iPhone12Pro_backUpMedicalID" /></td>
+	</tr>
+</table>
+
+<table style="border-spacing:12">
+	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_restoreMedicalID.png" width="286" title="iPhone12Pro_restoreMedicalID" /></td>
 	</tr>
 </table>
@@ -100,6 +115,11 @@ The app does not collect any usage metrics.
 	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_addWidgetPersonalDetails.png" width="286" title="iPhone12Pro_addWidgetPersonalDetails" /></td>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_addWidgetEmergencyContacts.png" width="286" title="iPhone12Pro_addWidgetEmergencyContacts" /></td>
+	</tr>
+</table>
+
+<table style="border-spacing:12">
+	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_widgetsMixture.png" width="286" title="iPhone12Pro_widgetsMixture" /></td>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_widgetsHomeScreen.png" width="286" title="iPhone12Pro_widgetsHomeScreen" /></td>
 	</tr>
@@ -109,6 +129,11 @@ The app does not collect any usage metrics.
 	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_widgetsPersonalDetails.png" width="286" title="iPhone12Pro_widgetsPersonalDetails" /></td>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_widgetsMedicalInformation.png" width="286" title="iPhone12Pro_widgetsMedicalInformation" /></td>
+	</tr>
+</table>
+
+<table style="border-spacing:12">
+	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_widgetsEmergencyContacts.png" width="286" title="iPhone12Pro_widgetsEmergencyContacts" /></td>
 	</tr>
 </table>
@@ -162,6 +187,11 @@ The app does not collect any usage metrics.
 	<tr>
 		<td><img src="screenshots/framed/iPad/iPadPro11_editMedicalID1.png" width="400" title="iPadPro11_editMedicalID1" /></td>
 		<td><img src="screenshots/framed/iPad/iPadPro11_editMedicalID2.png" width="400" title="iPadPro11_editMedicalID2" /></td>
+	</tr>
+</table>
+
+<table style="border-spacing:12">
+	<tr>
 		<td><img src="screenshots/framed/iPad/iPadPro11_editMedication.png" width="400" title="iPadPro11_editMedication" /></td>
 	</tr>
 </table>
@@ -172,7 +202,17 @@ The app does not collect any usage metrics.
 <table style="border-spacing:12">
 	<tr>
 		<td><img src="screenshots/framed/iPad/iPadPro11_shareMedicalID.png" width="400" title="iPadPro11_shareMedicalID" /></td>
+	</tr>
+</table>
+
+<table style="border-spacing:12">
+	<tr>
 		<td><img src="screenshots/framed/iPad/iPadPro11_backUpMedicalID.png" width="400" title="iPadPro11_backUpMedicalID" /></td>
+	</tr>
+</table>
+
+<table style="border-spacing:12">
+	<tr>
 		<td><img src="screenshots/framed/iPad/iPadPro11_restoreMedicalID.png" width="400" title="iPadPro11_restoreMedicalID" /></td>
 	</tr>
 </table>
