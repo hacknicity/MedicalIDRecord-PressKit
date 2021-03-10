@@ -58,6 +58,15 @@ The app does not collect any usage metrics.
 
 
 ---
+## Hero Images
+#### Widgets
+<p>
+	<img src="heroImages/heroImage_widgets.png" width="1000" title="heroImage_widgets" />
+</p>
+
+
+
+---
 ## iPhone Screenshots
 
 #### View Medical ID:
