@@ -127,6 +127,13 @@ The app does not collect any usage metrics.
 
 <table style="border-spacing:12">
 	<tr>
+		<td><img src="screenshots/framed/iPhone/iPhone12Pro_editWidget1.png" width="286" title="iPhone12Pro_editWidget1" /></td>
+		<td><img src="screenshots/framed/iPhone/iPhone12Pro_editWidget2.png" width="286" title="iPhone12Pro_editWidget2" /></td>
+	</tr>
+</table>
+
+<table style="border-spacing:12">
+	<tr>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_widgetsMixture.png" width="286" title="iPhone12Pro_widgetsMixture" /></td>
 		<td><img src="screenshots/framed/iPhone/iPhone12Pro_widgetsHomeScreen.png" width="286" title="iPhone12Pro_widgetsHomeScreen" /></td>
 	</tr>
