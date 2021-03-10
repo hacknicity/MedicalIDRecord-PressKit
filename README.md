@@ -4,6 +4,9 @@ This README file, all of the sceenshots, and the Medical ID Record app icon are 
 [here](https://github.com/hacknicity/MedicalIDRecord-PressKit/archive/main.zip).
 The archive also includes versions of screenshots without device frames.
 
+If you want to quickly create some data within the app you can import the sample data that was used in these screenshots.
+See the [Sample Data](#sample-data) section below for more information.
+
 ### What is Medical ID Record?
 Medical ID Record is an app for iPhone, iPad and Apple Watch for storing your medical information and emergency contacts.
 This is a useful reference when visiting a healthcare professional and could be life-saving in case of emergency.
@@ -291,6 +294,17 @@ The app does not collect any usage metrics.
 		<td><img src="screenshots/framed/Watch/WatchSeries6_complications2.png" width="227" title="WatchSeries6_complications2" /></td>
 	</tr>
 </table>
+
+
+---
+## Sample Data
+The file `SampleData.medicalidbackup` is a backup created from the app with some sample data.
+This can be imported in to the app using the [Restore Medical ID](https://hacknicity.com/medicalid/userguide#restoremedicalid) feature.
+You will need to copy the file somewhere that your device can access it (such as iCloud Drive or Dropbox).
+
+Restoring from a backup will overwrite all data in the app.
+If you have already created some data that you want to keep, you should first [create and save a backup](https://hacknicity.com/medicalid/userguide#backupmedicalid) of your own data.
+You will then be able to restore your own data later.
 
 
 ---
