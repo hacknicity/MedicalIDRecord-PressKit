@@ -331,7 +331,7 @@ There have been almost 40 updates over the years to add new features, support ne
 
 ### About Me
 My name is **Geoff Hackworth**.
-I'm a UK-based software engineer who has been developing software since getting a Commodore Vic-20 in the early 1980s.
+I'm a UK-based software engineer who has been developing software since getting a Commodore VIC-20 in the early 1980s.
 I graduated in Computer Science in 1991 and have been developing software professionally ever since.
 
 I've been building native iOS apps since 2011 (iOS 4) and have been an independent developer since 2014.
