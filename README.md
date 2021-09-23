@@ -125,7 +125,7 @@ The app does not collect any usage metrics.
 <br/>
 
 
-#### iOS 14 Widgets (new in v6.0):
+#### iOS 14/15 Widgets:
 
 <table style="border-spacing:12">
 	<tr>
@@ -242,7 +242,7 @@ The app does not collect any usage metrics.
 <br/>
 
 
-#### iOS 14 Widgets (new in v6.0):
+#### iOS 14/15 Widgets:
 
 <table style="border-spacing:12">
 	<tr>
@@ -344,7 +344,7 @@ At the time of writing this is **£4.99 GBP** and **€5.49 EUR**.
 
 ### Availability
 Medical ID Record is a universal app available worldwide for iPhone, iPad and Apple Watch and requires iOS 11 and watchOS 4 or later.
-Some features require iOS/iPadOS 13 or 14.
+Some features require iOS/iPadOS 13 or later.
 
 
 ### Web Sites
