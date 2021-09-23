@@ -339,7 +339,7 @@ You will then be able to restore your own data later.
 
 ### Pricing
 One-time purchase price of **$4.99 USD** or equivalent currency.
-At the time of writing this is **£4.99 GBP** and **€5.49 EUR**.
+At the time of writing this is **£4.49 GBP** and **€4.99 EUR**.
 
 
 ### Availability
